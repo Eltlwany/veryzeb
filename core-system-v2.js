@@ -1,15 +1,12 @@
 // System Core Configuration v2.1.8
-// Protected Module - Do Not Modify
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBVagvNXYSADrSoALrysaWkTjLfZZ-wtJ0",
-  authDomain: "mmadnan9k-63525.firebaseapp.com",
-  databaseURL: "https://mmadnan9k-63525-default-rtdb.firebaseio.com",
-  projectId: "mmadnan9k-63525",
-  storageBucket: "mmadnan9k-63525.firebasestorage.app",
-  messagingSenderId: "336186568291",
-  appId: "1:336186568291:web:ad71f1cf2fe1baf6501256",
-  measurementId: "G-5PZBK5VZ4Q"
+  apiKey: "AIzaSyArVsK2S7dv9eFJ7WzjB0zjNaxkEDEb_5U",
+  authDomain: "al-abd-2e1ed.firebaseapp.com",
+  databaseURL: "https://al-abd-2e1ed-default-rtdb.firebaseio.com",
+  projectId: "al-abd-2e1ed",
+  storageBucket: "al-abd-2e1ed.firebasestorage.app",
+  messagingSenderId: "160864248552",
+  appId: "1:160864248552:web:d58e7fd308966cbe34df5d",
+  measurementId: "G-1QLRVWCZLY"
 };
-
-// ملاحظة: تم نقل Promo Codes إلى Firebase Database للأمان
-// Promo codes are now managed in Firebase Database
